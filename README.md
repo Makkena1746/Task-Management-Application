@@ -3,7 +3,7 @@
 <p>For this application I'm going to develop the following features</p>
 <h2>Features:</h2>
 <ol>
-  <li>User Management
+  <li>User Management:
     <ul>
       <li>User registration and login using Spring Security.</li>
       <li>Role-based access (e.g., Admin, User).</li>
